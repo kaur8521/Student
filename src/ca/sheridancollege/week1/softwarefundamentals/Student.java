@@ -7,7 +7,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
 
 /**
  *
- * @author gurle
+ * @author gurleen kaur chahal
  */
 public class Student {
     
